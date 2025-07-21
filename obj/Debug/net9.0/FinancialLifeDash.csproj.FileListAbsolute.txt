@@ -1,0 +1,14 @@
+/Users/syoung/CS/FinancialLifeDash/obj/Debug/net9.0/FinancialLifeDash.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syoung/CS/FinancialLifeDash/obj/Debug/net9.0/FinancialLifeDash.AssemblyInfoInputs.cache
+/Users/syoung/CS/FinancialLifeDash/obj/Debug/net9.0/FinancialLifeDash.AssemblyInfo.cs
+/Users/syoung/CS/FinancialLifeDash/obj/Debug/net9.0/FinancialLifeDash.csproj.CoreCompileInputs.cache
+/Users/syoung/CS/FinancialLifeDash/bin/Debug/net9.0/FinancialLifeDash
+/Users/syoung/CS/FinancialLifeDash/bin/Debug/net9.0/FinancialLifeDash.deps.json
+/Users/syoung/CS/FinancialLifeDash/bin/Debug/net9.0/FinancialLifeDash.runtimeconfig.json
+/Users/syoung/CS/FinancialLifeDash/bin/Debug/net9.0/FinancialLifeDash.dll
+/Users/syoung/CS/FinancialLifeDash/bin/Debug/net9.0/FinancialLifeDash.pdb
+/Users/syoung/CS/FinancialLifeDash/obj/Debug/net9.0/FinancialLifeDash.dll
+/Users/syoung/CS/FinancialLifeDash/obj/Debug/net9.0/refint/FinancialLifeDash.dll
+/Users/syoung/CS/FinancialLifeDash/obj/Debug/net9.0/FinancialLifeDash.pdb
+/Users/syoung/CS/FinancialLifeDash/obj/Debug/net9.0/FinancialLifeDash.genruntimeconfig.cache
+/Users/syoung/CS/FinancialLifeDash/obj/Debug/net9.0/ref/FinancialLifeDash.dll
